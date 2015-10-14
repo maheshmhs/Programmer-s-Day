@@ -1,12 +1,16 @@
 #EngineeringImpact
 
-Human beings have always been able to do seemingly impossible things. We have conquered not only land but also air, water and even outer space. Had it not been our engineering apptitude we would probably have been extinct long time back with all kinds of adverse climatic conditions. We built everything that we thought would improve our lives. And we continue to do so. Our creativity always helped us invent and achieve these greate feats. While engineers have been at the center of all these creations, a very creative section of our population was deprived of creating the engineering masterpieces. Artists have always been considered very creative yet have very little contribution to engineering.
-One very important impact engineering has given is the ability for everyone to communicate irrespective of disability, language barriers or distance. Matt Damon can talk to people from Mars. Although its in just a movie today this reality is not very far. 
+We didn't have wings but wanted to fly, so we built airplanes. We didn't have fins we built ships. Similarly we built vehicles, bridges, rockets,hospitals. We did everything we wanted to do and will continue to do. This tiny speck in the universe is probably the most advanced place. All thanks to engineering.
 
-This program itself is one of the engineering impact. It gives equal opportunities in programming to that creative sectors.  Artits can now paint their program and be part of this engineering revolution. Although not very practical yet, this programming language just proves that engineering is limitless.
+We are much safer against epidemics and adverse climates. We live longer and probably happier today than those who lived here few centuries earlier.Had it not been engineers we would have been extinct a long time back. All those creatures like dinosaurs are probably regretting for not having engineers in their species.
 
-The attached image itself it a program. Its written in PIET programming language. 
-To run: any existing piet interpreter or compiler can be used. Or you can create your own interpreter. Easiest is to use online versions. This program was tested at http://www.bertnase.de/npiet/npiet-execute.php . Just upload the image and execute it and find out yourself what First Hand Foundation is.
+Whatever we see today is an impact of engineering. Infact our own existence till today speaks volume of the impact engineering has.Being able to write this program itself is a beautiful proof of what engineering can do. All those creative painters today can now write a computer program by just using their paint. 
+
+This program is written in a language called PIET.  Image itself it the program.
+
+To run: Any existing piet interpreter or compiler can be used. Or you can create your own interpreter :).  
+Easiest is to use online versions. This program was tested at http://www.bertnase.de/npiet/npiet-execute.php . 
+Just upload the image and execute it and find out yourself what First Hand Foundation is.
 
 
 
